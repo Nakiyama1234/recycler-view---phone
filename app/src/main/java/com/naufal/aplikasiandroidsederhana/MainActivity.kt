@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         val listHP = ArrayList<HP>()
         for (i in namaHP.indices){
             val hp = HP(namaHP[i], deskripsiHP[i], fotoHP.getResourceId(i, -1))
+            listHP.add(hp)
         }
         return listHP
     }
