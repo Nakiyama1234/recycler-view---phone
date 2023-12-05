@@ -2,6 +2,7 @@ package com.naufal.aplikasiandroidsederhana
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -15,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         rvHP = findViewById(R.id.rv_hp)
         rvHP.setHasFixedSize(true)
+
 
         list.addAll(getListHP())
         showRecycelerlist()
@@ -34,5 +36,15 @@ class MainActivity : AppCompatActivity() {
         rvHP.layoutManager = LinearLayoutManager(this)
         val listHpAdapter = ListHpAdapter(list)
         rvHP.adapter = listHpAdapter
+
+        listHpAdapter.setOnItemClickCallback(object : ListHpAdapter.OnItemClickCallback{
+            override fun onItemClicked(data: HP) {
+                showSelectedHp(data)
+            }
+        })
+    }
+
+    private fun showSelectedHp(hp: HP) {
+        Toast.makeText(this, "Kamu Memilih " + hp.nameHP, Toast.LENGTH_SHORT).show()
     }
 }
