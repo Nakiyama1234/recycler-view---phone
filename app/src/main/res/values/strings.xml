@@ -2,6 +2,94 @@
     <string name="app_name">Aplikasi Android Sederhana</string>
     <string name="nama_hp">Nama HP</string>
     <string name="deskripsi">Deskripsi</string>
-
     <string name="textview">TextView</string>
+    <string-array name="nama_hp">
+        <item>OPPO A77s</item>
+        <item>POCO C40</item>
+        <item>POCO M3 Pro 5G</item>
+        <item>Realme 10</item>
+        <item>Realme 8i</item>
+        <item>Realme C55</item>
+        <item>Realme Narzo 30A</item>
+        <item>Redmi Note 10S</item>
+        <item>Samsung Galaxy A02</item>
+        <item>TECNO Pova 4</item>
+    </string-array>
+    <string-array name="deskripsi_hp">
+        <item>Dibanderol dengan harga 3 jutaan ketika pertama kali meluncur di Indonesia, OPPO A77s memiliki keunggulan pada spesifikasinya yang sedikit di atas rata-rata kelasnya, terutama pada prosesor, kamera, dan baterai.
+
+OPPO A77s yang ditenagai oleh Snapdragon 680 ini hadir dengan RAM 8 GB untuk mendukung kinerjanya mencapai tingkat yang optimal. Sementara untuk kebutuhan penyimpanan internalnya, tersedia ruang seluas 128 GB untuk menyimpan berbagai macam file penting.
+
+Kebutuhan visual dari OPPO A77s hadir dengan dukungan layar LCD berukuran 6.56 inci yang mampu menghadirkan tampilan berkualitas HD+ dengan resolusi 1612 x 720 piksel. Layar ini sudah mendukung refresh rate 90Hz.
+
+Pada sektor kamera, hadir dual camera utama dengan konfigurasi 50 MP + 2 MP, lalu pada sisi depannya terdapat kamera selfie 8 MP. Kebutuhan daya OPPO A77s didukung baterai 5000 mAh dengan daya fast charging 33W menggunakan teknologi SUPERVOOC.</item>
+        <item>POCO C40 adalah hp POCO harga 1 jutaan dengan spesifikasi yang cukup sebanding dengan banderol harga yang ditawarkannya tersebut. Hp entry ini cocok untuk dijadikan sebagai daily driver, maupun sebagai hp kedua.
+
+
+POCO C40 tersedia dalam dua varian dengan RAM 3 GB/32 GB dan 4 GB/64 GB, sehingga dapat dipilih sesuai dengan kebutuhan. Prosesor yang diusungnya adalah JLQ JR510 yang diproduksi oleh JLQ Technology.
+
+Tampilan layarnya sudah dibekali dengan fitur Sunlight Display, sehingga pengguna bisa dengan jelas melihat konten pada layar Dot Drop berukuran 6.71 inci ini, saat berada di bawah terik sinar matahari.
+
+Untuk mengabadikan momen, hadir kamera ganda 13 MP + 2 MP, serta kamera depan yang mengusung resolusi 5 MP. Baterai POCO C40 awet dipakai seharian, karena memiliki kapasitas 6000 mAh. Mengisi daya pun cepat, karena sudah mendukung fast charging 18W.
+
+</item>
+        <item>POCO M3 Pro 5G juga menjadi salah satu hp murah dengan spek tinggi yang kami rekomendasikan, karena selain harganya yang terjangkau, sudah mengusung jaringan 5G melalui chipset MediaTek Dimensity 700.
+
+Hp POCO ini dibekali dengan konfigurasi triple camera yang terdiri dari kamera utama 48 MP dengan sensor 1/2 inci, dan dua kamera pendukung yang masing-masing beresolusi 2 MP.
+
+POCO M3 Pro 5G mengusung layar DotDisplay berukuran 6.5 inci yang mampu menghadirkan tampilan visual berkualitas FHD+ dan sudah mendukung refresh rate 90Hz.
+
+Salah satu fitur unggulan pada layar POCO M3 Pro 5G adalah Mode Baca 3.0 yang akan membantu menyesuaikan kondisi cahaya, sehingga mata penggunanya tidak mudah lelah.</item>
+        <item>Salah satu hp murah spek dewa yang kami rekomendasikan adalah realme 10 yang ditenagai oleh chipset MediaTek Helio G99 yang performanya cukup bisa diandalkan untuk bermain gim.
+
+Kemampuan proseser yang cukup tinggi di kelasnya ini juga didukung oleh kapasitas RAM yang besar. Tersedia pilihan varian dengan RAM 4 GB atau 8 GB. Keduanya hadir dengan ruang penyimpanan internal sebesar 128 GB.
+
+Soal tampilan visualnya, layar realme 10 sangat tajam, dan memiliki kontras warna yang kaya. Layarnya berjenis Super AMOLED, dengan luas 6.4 inci. Kualitas tampilannya sudah FHD+, dengan kualitas 2400 x 1080 piksel.
+
+Kebutuhan fotografi didukung oleh dual camera 50 MP + 2 MP di panel belakang, dengan kamera depan yang memiliki resolusi 16 MP. Baterai 5000 mAh pada realme 10 sudah mendukung teknologi SUPERVOOC 33W untuk pengisian daya cepat.</item>
+        <item>realme 8i adalah smartphone yang menutup tahun 2021 realme di Indonesia yang mengusung prosesor MediaTek Helio G96 dan hadir dalam dua varian RM 4 GB/64 GB dan 6 GB/128 GB.
+
+Salah satu keunggulan utama dari hp ini adalah banderol harganya di kisaran 2 jutaan pada saat pertama kali rilis, namun sudah mendukung layar dengan refresh rate 120Hz. Salah satu yang terbaik di kelasnya.
+
+Selain layar, keunggulan lain dari realme 8i adalah hadirnya triple camera yang memiliki konfigurasi 50 MP + 2 MP + 2 MP. Sekali lagi, spesifikasi kamera yang sangat mumpuni dan tinggi di kisaran harganya.
+
+Penggemar fotografi smartphone juga dimanjakan dengan berbagai fitur kamera seperti AI Beauty. Khusus bagi vlogger, kameranya mampu merekam video Slow Motion dan Ultra Steady Video dengan sangat baik.
+
+Keseluruhan performa realme 8i didukung oleh baterai 5000 mAh yang sudah mendukung pengisian daya cepat 18W. Pengguna hp realme ini tidak akan merawa khawatir cepat kehabisan daya.</item>
+        <item>Membawa spesifikasi yang unggul pada kamera, baterai, dan RAM besar di kelasnya, realme C55 menawarkan banderol harga yang cukup terjangkau di kisaran 2 jutaan ketika pertama kali rilis di Indonesia.
+
+realme C55 punya layar luas berukuran 6.72 inci dengan resolusi FHD+, dan sudah mendukung refresh rate 90Hz untuk mendukung aktivitas gaming dan multimedia yang tidak membutuhkan spesifikasi tinggi.
+
+Untuk kebutuhan fotografi, realme C55 dibekali dengan kamera ganda beresolusi 64 MP yang mendukung perekaman video hingga 1080p di 60fps. Sementara kamera depannya memiliki resolusi 8 MP dengan teknologi AI.
+
+Performa prosesor MediaTek Helio G88 didukung oleh opsi RAM 6 GB/128 GB atau 8 GB/256 GB. Sumber daya hp realme ini datang dari beterai 5000 mAh yang dilengkapi dengan teknologi SUPERVOOC untuk pengisian daya cepat 33W.</item>
+        <item>Hp realme yang meluncur di awal tahun 2021 ini mengusung nama narzo 30A. Untuk ukuran hp gaming di kelas entry, spesifikasi yang ditawarkan sangat mumpuni, dengan daya tahan baterai yang awet. realme narzo 30A dibekali dengan baterai besar berkapasitas 6000 mAh yang diklaim mampu bertahan selama 46 hari pada keadaan siaga. Baterai ini sudah mendukung teknologi pengisian daya cepat 18W. Beralih ke bahasan soal spesifikasi, realme narzo 30A dibekali dengan prosesor MediaTek G85 yang mendapatkan dukungan performa dari RAM 4 GB dan ROM 64 GB. Hp realme 1 jutaan ini memiliki kamera ganda dengan konfigurasi 13 MP (f/2.2) + 2 MP (f/2.4). Lalu pada bagian depannya, terpampang kamera selfie dengan resolusi 8 MP.</item>
+        <item>Redmi Note 10S mengusung varian RAM 6 GB/64 GB dengan banderol harga 2 jutaan, selain dari varian RAM 8 GB/128 GB yang dijual pada harga 3 jutaan. Dengan banderol harga yang relatif terjangkau, hp ini menawarkan spesifikasi yang tidak main-main.
+
+Pada bagian depan hp yang berjalan dengan prosesor MediaTek Helio G95 ini terpasang layar Super AMOLED berukuran 6.43 inci yang mengantongi sertifikasi SGS untuk fitur cahaya biru yang diusungnya.
+
+Hp yang bagus untuk urusan jepret menjepret foto dan merekam video ini dibekali dengan quad camera yang terdiri dari kamera wide beresolusi 64 MP, kamera ultrawide 8 MP, dan dua kamera depth dan makro yang masing-masing beresolusi 2 MP.
+
+Daya tahan baterai menjadi salah satu keunggulan lain dari Redmi Note 10S yang mengusung baterai besar berkapasitas 5000 mAh yang sudah mendukung pengisian daya cepat 33W.</item>
+        <item>Samsung Galaxy A02 masuk dalam daftar rekomendasi ini karena termasuk hp murah dengan spesifikasi yang cukup mumpuni di kelasnya. Harga Samsung Galaxy A02 di pasaran hanya sejutaan.
+
+Salah satu fitur yang menjadi keunggulan dari Galaxy A02 adalah kapasitas baterai besarnya. Hp Samsung ini dibekali dengan baterai 5000 mAh yang sangat awet untuk dipakai seharian penuh.
+
+Tampilan layarnya cukup memuaskan untuk menonton series favorit atau sekedar untuk bermain gim, karena layar berukuran 6,5 inci dengan resolusi HD+ berjenis PLS Infinity-V yang diusungnya, terlihat luas dan tajam.
+
+Untuk kamera, hp murah spek dewa ini memiliki dua kamera belakang yang terdiri dari kamera utama 13 MP dan kamera makro 2 MP. Hp ini masuk dalam kategori spek dewa karena dibekali oleh prosesor Mediatek MT6739W dengan dukungan RAM 3 GB dan ROM 32 GB.</item>
+        <item>TECNO Pova 4 menawarkan performa yang tinggi di kelasnya, namun dibanderol di harga yang relatif terjangkau, sehingga menjadikannya sebagai salah satu rekomendasi hp murah spek dewa saat ini. Hp TECNO ini hadir dengan RAM 8 GB dengan penambahan extended RAM sebesar 5 GB, sehingga total RAM yang diusungnya bisa mencapai 13 GB. Ruang penyimpanan internalnya sendiri cukup besar, 128 GB. Layar hp MediaTek Helio G99 ini mengusung jenis IPS berukuran 6.82 inci, dan sudah mendukung refresh rate 90Hz untuk memberikan pengalaman bermain gim yang memuaskan. Kebutuhan foto dan video didukung oleh hadirnya dual kamera 50 MP pada penel belakangnya. Sementara kebutuhan vlogging dan video call, dapat dilakukan dengan menggunakan kamera depan beresolusi 8 MP. Untuk kebutuhan daya, TECNO Pova 4 mengusung baterai berkapasitas 6000 mAh. Baterai ini sudah mendukung teknologi fast charging dengan daya pengisian 18W.</item>
+    </string-array>
+    <integer-array name="data_gambar">
+        <item>@drawable/oppo_a77s</item>
+        <item>@drawable/poco_c40</item>
+        <item>@drawable/poco_m3_pro_5g</item>
+        <item>@drawable/realme_10</item>
+        <item>@drawable/realme_8i</item>
+        <item>@drawable/realme_c55</item>
+        <item>@drawable/realme_narzo_30a</item>
+        <item>@drawable/redmi_note_10s</item>
+        <item>@drawable/samsung_galxy_1o2</item>
+        <item>@drawable/tecno_pova_4</item>
+    </integer-array>
 </resources>

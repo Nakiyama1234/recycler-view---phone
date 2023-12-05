@@ -21,7 +21,11 @@ class ListHpAdapter(private val listHP: ArrayList<HP>) : RecyclerView.Adapter<Li
     }
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        TODO("Not yet implemented")
+        val (nameHP, deskirpsi, imgPhoto) = listHP[position]
+        holder.imgPhoto.setImageResource(imgPhoto)
+        holder.namaHP.text = nameHP
+        holder.deskripsi.text = deskirpsi
+
     }
 
     override fun getItemCount(): Int = listHP.size
