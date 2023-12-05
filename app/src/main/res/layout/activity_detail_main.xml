@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DetailHpActivity">
+    tools:context=".DetailMainActivity">
 
     <ImageView
         android:id="@+id/image_item_hp"
@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
-    
+
     <TextView
         android:id="@+id/item_name"
         android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/image_item_hp"/>
-    
+
     <TextView
         android:id="@+id/item_deskripsi"
         android:layout_width="0dp"
@@ -40,5 +40,16 @@
         app:layout_constraintHorizontal_bias="0.11"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/item_name"/>
+
+
+    <Button
+        android:layout_width="360dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:text="@string/cek_harga"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="670dp"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

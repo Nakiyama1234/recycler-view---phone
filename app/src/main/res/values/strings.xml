@@ -3,6 +3,7 @@
     <string name="nama_hp">Nama HP</string>
     <string name="deskripsi">Deskripsi</string>
     <string name="textview">TextView</string>
+    <string name="cek_harga">Cek Harga</string>
     <string-array name="nama_hp">
         <item>OPPO A77s</item>
         <item>POCO C40</item>
@@ -92,4 +93,16 @@ Untuk kamera, hp murah spek dewa ini memiliki dua kamera belakang yang terdiri d
         <item>@drawable/samsung_galxy_1o2</item>
         <item>@drawable/tecno_pova_4</item>
     </integer-array>
+    <string-array name="url_phone">
+        <item>https://www.oppo.com/id/smartphones/series-a/a77s/specs/</item>
+        <item>https://www.po.co.id/id/product/poco-c40/specs</item>
+        <item>https://www.po.co.id/id/product/poco-m3-pro-5g/specs</item>
+        <item>https://buy.realme.com/id/goods/358</item>
+        <item>https://www.realme.com/id/realme-8i/specs</item>
+        <item>https://buy.realme.com/id/goods/511</item>
+        <item>https://buy.realme.com/id/goods/180</item>
+        <item>https://www.mi.co.id/id/product/redmi-note-10s/</item>
+        <item>https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a02-gray-32gb-sm-a022fzadxid/buy/</item>
+        <item>https://carisinyal.com/hp/tecno-pova-4/</item>
+    </string-array>
 </resources>

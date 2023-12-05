@@ -5,6 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 
 class ListHpAdapter(private val listHP: ArrayList<HP>) : RecyclerView.Adapter<ListHpAdapter.ListViewHolder>() {
@@ -25,6 +26,9 @@ class ListHpAdapter(private val listHP: ArrayList<HP>) : RecyclerView.Adapter<Li
         holder.imgPhoto.setImageResource(imgPhoto)
         holder.namaHP.text = nameHP
         holder.deskripsi.text = deskirpsi
+        holder.itemView.setOnClickListener {
+            Toast.makeText(holder.itemView.context, "Page HP " + listHP[holder.adapterPosition].nameHP, Toast.LENGTH_SHORT).show()
+        }
 
     }
 
