@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="abu">#454545</color>
+    <color name="_00a7d3">#00A7D3</color>
+    <color name="_231e39">#231e39</color>
 </resources>

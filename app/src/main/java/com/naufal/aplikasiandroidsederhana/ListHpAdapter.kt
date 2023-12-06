@@ -1,5 +1,6 @@
 package com.naufal.aplikasiandroidsederhana
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ScrollCaptureCallback
 import android.view.View
@@ -37,11 +38,12 @@ class ListHpAdapter(private val listHP: ArrayList<HP>) :
         return ListViewHolder(view)
     }
 
+
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (nameHP, deskirpsi, imgPhoto) = listHP[position]
-        holder.imgPhoto.setImageResource(imgPhoto)
-        holder.namaHP.text = nameHP
-        holder.deskripsi.text = deskirpsi
+        val HP = listHP[position]
+        holder.imgPhoto.setImageResource(HP.fotoHP)
+        holder.namaHP.text = HP.nameHP
+        holder.deskripsi.text = HP.deskripsi
         holder.itemView.setOnClickListener {
             Toast.makeText(
                 holder.itemView.context,
@@ -51,9 +53,11 @@ class ListHpAdapter(private val listHP: ArrayList<HP>) :
         }
         holder.itemView.setOnClickListener {
             onItemClickCallback.onItemClicked(listHP[holder.adapterPosition])
+            val intent = Intent(it.context, DetailMainActivity::class.java)
+            intent.putExtra(DetailMainActivity.EXTRA_HP, HP)
+            it.context.startActivity(intent)
         }
     }
-
 
     override fun getItemCount(): Int = listHP.size
 

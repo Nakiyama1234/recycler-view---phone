@@ -7,5 +7,6 @@ import kotlinx.parcelize.Parcelize
 data class HP(
     val nameHP: String,
     val deskripsi: String,
+    val urlHP: String,
     val fotoHP: Int
 ): Parcelable

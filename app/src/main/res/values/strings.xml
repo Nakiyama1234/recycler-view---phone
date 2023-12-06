@@ -4,6 +4,21 @@
     <string name="deskripsi">Deskripsi</string>
     <string name="textview">TextView</string>
     <string name="cek_harga">Cek Harga</string>
+    <string name="cek_di_website">Cek Di Website</string>
+    <string name="pro">Pro</string>
+    <string name="yogyakarta">Yogyakarta</string>
+    <string name="android_development_ui_ux_designe_web_designer">Android Development, UI UX Designe, Web Designer</string>
+    <string name="skils">SKILS</string>
+    <string name="ui_ux_designe">UI UX Designer</string>
+    <string name="gamer">Gamer</string>
+    <string name="web_development">Web Development</string>
+    <string name="game_development">Game Development</string>
+    <string name="android_development">Android Development</string>
+    <string name="seller">Seller</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile">My Profile</string>
+    <string name="deskripsiii">Deskripsi</string>
+    <string name="android_store">Android Store</string>
     <string-array name="nama_hp">
         <item>OPPO A77s</item>
         <item>POCO C40</item>
